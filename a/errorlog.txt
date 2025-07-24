@@ -1,0 +1,2 @@
+[01-Mar-2024 22:22:08 UTC] PHP Warning:  SQLite3::exec(): 3 values for 2 columns in /home2/matrixch/public_html/a/getappuser.php on line 101
+[02-Mar-2024 02:37:28 UTC] PHP Warning:  SQLite3::exec(): 3 values for 2 columns in /home2/matrixch/public_html/a/getappuser.php on line 101
